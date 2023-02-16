@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.content-wrapper{
+    min-width: 100vw;
+    min-height: 100vh;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 6rem;
+
+}
